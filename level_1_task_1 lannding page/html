@@ -1,1 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing page</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+   <div class="container">
+    <nav>
+        <div class="navi">
+            <div class="left-nav">
+                <h1 class="head">Tour Gujarat</h1>
+            </div>
+            <div class="right-nav">
+                <ul>
+                    
+                    <li><a href="#history">History</a></li>
+                    <li><a href="#blogs">Blogs</a></li>
+                   
+                    <li><a href="#visit">Places to visit</a></li>
+                    <li><a href="#contact">Contact us</a></li>
+                </ul>
+                <div class="search">
+                    <input type="search" placeholder="Search here">
+                    <a href="#" class="srca"><img class="simg"src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAmdJREFUSEvl1kuozVEUx/HPlWdKDCivkbxDXsk7JlIGRl5RQtzIAAMxM0JhYEAihvJKDBhISuQtJIq8856QQpK0ss/t79x77tld93QH9uTU/6zf77sfa+2167TRqGsjrhxwe0zEEPTAI1zHm3+ZdHPgvtiMxejWBOQqduJ4SyZQCbwIB9Alw/Qs5uNLRmxDSFPg5QkaQb9wGKdxB+8wBpOxCv2T001Mw7dceDl4FG6jHT5gDm5UMOuMg1iY/t+L1S0Fn8HsJJ6KS1WMIvEiZgJ+YjCe5sCLK+6F90m0HytzDDA67VKERzJuzdEVwQvSeYZuEq7kGKSY+xiOC5iZoyuC16fyCF1XfM0xSDFRAZGUb9EnR1cEb8S2JOqEHzkGKSZ0of+M7jm6IngpDiXRIDzOMUgxRzAvHU8cU9VRBI/E3aRYgz1V1X8COqSkjOt0H+pzdOV1/Ar9EL+x6u8ZJhuwI8VlJ2U5eC12J5PY9mVVwGNxGZETx9J2Z8xVo+7UMV0I45P6FNbhWZlbgFZge6qAuDwG4nkWVWNw6HriPEYUTKJO76WzHIeYWFyZMeJ+jnM+gS14mAOv1J2iK+1Kq4prsdKICS1BnHO0zxjRVDbhRXMTqPYQiO4ThrNSskVfjofAORzFrWQ+FA8KoHgkRLd6UgleDZyza6WYk5hbEMQEp6dW2sinNcFRftGpIkdKI8pyCl6Wk1sTHN5xNNEoBhRAsd0z0t3Q8Lm1wSX4NfQuwF+n9vmx9K0W4PCOmo6LpbTt0aOjV9d0xSXzYbiYHgbxGv1r1GrFJUi0yE9NlUatwRXL8f8D/wbso2YfcIMr0AAAAABJRU5ErkJggg=="/>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="tg">
+        <div class="cont">
+            <div class="btitle">
+                <div class="item1"class="box" style="background-image: url(./btitle.jpg);background-size: 100% 100%;"></div>
+                <div class="item2"class="box" style="background-image: url(./R.jpg);background-size: 100% 100%;"></div>
+                <div class="item3"class="box" style="background-image: url(./dwarka.jpg);background-size: 100% 100%;"></div>
+                <div class="item4"class="box" style="background-image: url(./vav.jpg);background-size: 100% 100%;"></div>
+                <div class="item5"class="box" style="background-image: url(./shetru.jpg);background-size: 100% 100%;"></div>
+                <div class="item6"class="box" ><h1 class="he">Gauravvanti Gujarat</h1></div>
+                <div class="item7"class="box" style="background-image: url(./GettyImages-177800537-fc9fc86c142649ed8ca265365fb08bc9.jpg);background-size: 100% 100%;"></div>
+                <div class="item8"class="box" style="background-image: url(./Somnath-Tour-Packages.png);background-size: 100% 100%;"></div>
+                <div class="item9"class="box" style="background-image: url(./image-13.png);background-size: 100% 100%;"></div>
+                <div class="item10"class="box" style="background-image: url(./OIP.jpg);background-size: 100% 100%;"></div>
+                <div class="item11"class="box" style="background-image: url(./Nalsarovar-Bird-Sanctuary.jpg);background-size: 100% 100%;"></div>
+            </div>
+        </div>
+       
+    </div>
+    
+    <div class="history" id="history">
+        <div class="ho"><h1 class="t">History Of Gujarat </h1></div>
+        <div class="main">
+        <div class="prt">
+            <img src="./c04cf08b-68bd-49b7-81f3-da66e7d369d7.jpg" alt=""class="lft">
+            <div class="rht"><p class="para">
+                Gujarat, located in western India, is a state with a rich history and a diverse cultural heritage. The region has been inhabited since ancient times and has witnessed the rise and fall of several prominent civilizations. Let's explore the history of Gujarat from a tourism and heritage perspective. <br>
+                Indus Valley Civilization: Gujarat is believed to have been a part of the ancient Indus Valley Civilization, one of the world's oldest urban civilizations dating back to around 2500 BCE. Excavations at sites like Lothal and Dholavira have revealed the remnants of this ancient civilization, including well-planned cities, intricate drainage systems, and artifacts.
+                <br>
+            </p>
+            </div>
+                
+        </div>
+        <hr>
+       
+        <div class="prt reverse">
+            <img src="./OIP (1).jpg" alt="" class="lft">
+            <div class="rht">
+                <p class="para"> <h3>History Of Rulers</h3>
+                Mauryan Empire: During the Mauryan period in the 3rd century BCE, Gujarat was incorporated into the vast Mauryan Empire under the rule of Emperor Ashoka. Ashoka's edicts and pillars have been found in Junagadh, Girnar, and other parts of Gujarat. <br>
+                
+                Gujarat Sultanate: In the 15th century, Gujarat witnessed the rise of the Gujarat Sultanate under the leadership of Sultan Ahmed Shah. The capital city of Ahmedabad was founded during this period and became a major center of trade and commerce. <br>
+                
+                Mughal Rule: Gujarat came under the control of the Mughal Empire in the 16th century after the emperor Akbar's conquest. Mughal influence can be seen in the architecture of several monuments, including the Adalaj Stepwell and Sarkhej Roza in Ahmedabad. <br>
+                
+                Maratha Empire: In the 18th century, the Marathas established their dominance over Gujarat. The Gaekwads of Baroda and the Peshwas of Pune played significant roles in this period. The Maharaja Sayajirao University and the Lakshmi Vilas Palace in Vadodara are architectural marvels from this era. <br>
+                
+                British Rule and Independence: Gujarat became a part of British India in the 19th century. It played an active role in the Indian independence movement, with leaders like Sardar Vallabhbhai Patel hailing from the state. Sabarmati Ashram in Ahmedabad, where Gandhi lived, is now a popular tourist attraction. <br>
 
+                Post-Independence: After India gained independence in 1947, Gujarat was carved out as a separate state in 1960. It has since grown into a vibrant and industrially advanced state with a thriving tourism sector. <br> </p></div>
+        </div>
+        <hr>
+        <div class="prt ">
+            <img src="./btitle.jpg" alt="" class="lft">
+            <div class="rht"><p class="para"><h3>Places</h3>
+                 Gujarat's heritage is reflected in its numerous historical monuments, temples, palaces, and vibrant culture. Some of the must-visit attractions for heritage tourism in Gujarat include the Rani ki Vav stepwell in Patan (a UNESCO World Heritage Site), Sun Temple in Modhera, Champaner-Pavagadh Archaeological Park (a UNESCO World Heritage Site), and the magnificent temples of Somnath and Dwarka. <br> </p></div>
+        </div>
+        <hr>
+        <div class="prt reverse">
+            <img src="./R.jpg" alt="" class="lft">
+            <div class="rht"> <p class="para"> <h3>festivals</h3>
+                The state also celebrates various colorful festivals, such as Navratri, Uttarayan (Kite Festival), and Rann Utsav, which showcase the cultural vibrancy of Gujarat. Additionally, Gujarat is known for its handicrafts, textiles (like Patola silk and Bandhani), and delicious cuisine, making it a complete destination for tourists interested in history, heritage, and cultural experiences. <br> </p></div>
+        </div>
+        <hr>
+       
+    </div>
+    </div>    
+    <div class="places" id="visit">
+        <div class="ho"><h1 class="t">Places To Visit</h1></div>
+        <div class="main">
+            <div class="asap"><h2>Religious Places</h2></div>
+            <div class="cards">
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="cards">
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="asap"><h2>Adventourus Places</h2></div>
+            <div class="cards">
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="cards">
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="upper">
+                        
+                    </div>
+                    <div class="lower">
+                        <div class="loca">
+                            
+                            <h3 class="n">Dwarka</h3>
+                        </div>
+                        <div class="abou">
+                            <p class="trr">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis porro atque error eaque eos culpa suscipit cum amet architecto vero.</p>
+
+                        </div>
+                        
+                    </div>
+                    <div class="rm">
+                        <h4>Read More</h4>
+                    </div>
+                </div>
+            </div>
+            
+          
+        </div>
+    </div>
+    <div class="blogs" id="blogs">
+        <div class="ho"><h1 class="t">Blogs</h1></div>
+        <div class="main">
+       <div class="bl">
+        <div class="blog1">
+            <div class="prof">
+               <div class="imm"><img src="./human1.webp" alt="" class="hnm"></div>
+               <div class="prn">
+                <p>harry dan</p>
+               </div>
+
+               
+            </div>
+            <hr>
+          
+            <div class="wre">
+                <p><b>Exploring the Rich Heritage of Gujarat: Must-Visit Places</b>
+                    <br>
+
+                    Gujarat, a vibrant state in western India, is renowned for its rich cultural heritage and historical significance. With a plethora of fascinating tourist destinations, it offers a diverse range of experiences for travelers. Let's dive into the must-visit places in Gujarat.
+                    <br>
+                    <b>Ahmedabad:</b> As the largest city in Gujarat, Ahmedabad boasts a perfect blend of historical charm and modern infrastructure. Visit the Sabarmati Ashram, a place closely associated with Mahatma Gandhi, and witness his legacy. Explore the architectural marvels like the intricately carved Sidi Saiyyed Mosque and the magnificent Jama Masjid. Don't miss the iconic Calico Museum, showcasing exquisite Indian textiles.
+                    <br>
+                   <b> Dwarka:</b> Considered one of the holiest cities for Hindus, Dwarka is steeped in mythology and spirituality. Visit the ancient Dwarkadhish Temple, dedicated to Lord Krishna, and immerse yourself in the spiritual aura. Take a boat ride to Bet Dwarka, an island known for its temples and vibrant marine life. Witness the evening aarti (prayer) at Dwarka's Ghats, a mesmerizing experience.
+                    <br>
+                    <b>Rann of Kutch:</b> A visit to Gujarat is incomplete without exploring the enchanting Rann of Kutch. This vast white salt desert comes alive during the Rann Utsav, a vibrant festival celebrating the local culture. Enjoy camel rides, folk dances, and witness the stunning sunset at the white desert. Visit nearby villages to witness the exquisite crafts and textiles, including the famous Bandhani and Ajrakh prints.
+                    <br>
+                    <b>Gir National Park:</b> Nature enthusiasts shouldn't miss the opportunity to visit Gir National Park, the only natural habitat of the majestic Asiatic lions. Embark on a thrilling safari and spot various wildlife species, including leopards, deer, and crocodiles. The park also offers a chance to explore the tribal culture and interact with the local communities.</p>
+            </div>
+
+            
+        </div>
+        <div class="blog1">
+            <div class="prof">
+               <div class="imm"><img src="./human3.jpg" alt="" class="hnm"></div>
+               <div class="prn">
+                <p>Bhavik Bhavsar</p>
+               </div>
+
+               
+            </div>
+            <hr>
+          
+            <div class="wre">
+                <p><b> Divine Temples of Gujarat: Spiritual Journeys</b>
+
+                    Gujarat is home to a multitude of magnificent temples, attracting devotees and spiritual seekers from all over the world. These temples are not only religious landmarks but also architectural marvels. Let's embark on a spiritual journey through some of Gujarat's divine temples.
+                    <br>
+                    <b>Somnath Temple:</b> Located on the Arabian Sea coast, the Somnath Temple is one of the twelve Jyotirlingas (divine abodes of Lord Shiva). It has a rich historical and mythological significance, having been rebuilt several times over the centuries. The temple's architectural grandeur, coupled with its spiritual aura, makes it a must-visit for devotees and history enthusiasts alike.
+                    <br>
+                    <b>Sun Temple, Modhera:</b> Built in the 11th century, the Sun Temple in Modhera is dedicated to the solar deity, Surya. Known for its intricate carvings and architectural brilliance, the temple is an architectural masterpiece. Witness the mesmerizing dance performances during the annual Modhera Dance Festival held in the temple complex.
+                    <br>
+                    <b>Akshardham Temple, Gandhinagar:</b> A symbol of modern architecture and spiritual devotion, the Akshardham Temple in Gandhinagar is a blend of ancient craftsmanship and contemporary design. Explore the intricately carved pillars, visit the exhibition halls depicting the life of Lord Swaminarayan, and marvel at the breathtaking musical fountain show.
+                    <br>
+                    <b>Ambaji Temple:</b> Situated on the Aravalli Range in Banaskantha district, the Ambaji Temple is dedicated to the goddess Amba, a form of the divine feminine energy. The temple holds immense religious significance and attracts devotees seeking blessings. The serene surroundings and the panoramic view from the Gabbar Hill add to the spiritual experience.
+                    <br>
+                    These temples not only offer a chance to seek divine blessings but also provide an opportunity to admire the architectural prowess and immerse oneself in the spiritual ambiance of Gujarat</p>
+            </div>
+
+            
+        </div>
+       </div> 
+       <div class="bl">
+        <div class="blog1">
+            <div class="prof">
+               <div class="imm"><img src="./human2.jpg" alt="" class="hnm"></div>
+               <div class="prn">
+                <p>sam Willson</p>
+               </div>
+
+               
+            </div>
+            <hr>
+          
+            <div class="wre">
+                <p><b>Vibrant Festivals of Gujarat: A Celebration of Culture</b>
+                    <br>
+
+                    Gujarat is a land of vibrant festivals that showcase the rich cultural tapestry of the state. These festivals provide a glimpse into the traditions, rituals, and joyous spirit of the Gujarati people. Let's explore some of the most popular festivals in Gujarat.
+                    <br>
+                    <b>Navratri:</b> Navratri, meaning "nine nights," is one of the grandest and most eagerly awaited festivals in Gujarat. Celebrated with immense enthusiasm, it involves nine nights of energetic folk dances known as Garba and Dandiya Raas. People dress in traditional attire, play traditional instruments, and dance to the beats of devotional songs. The festival is a celebration of the victory of good over evil and honors the divine feminine energy.
+                    <br>
+                   <b> Uttarayan:</b> Uttarayan, or the International Kite Festival, is a sight to behold in Gujarat. Held annually on January 14th, the festival marks the transition of the sun into the zodiac sign of Capricorn. The sky becomes a canvas of colorful kites of various shapes and sizes. People engage in friendly kite-flying competitions, showcasing their skills and creativity. The festival also offers delicious Gujarati snacks and sweets to savor.
+                    <br>
+                   <b> Tarnetar Fair:</b> The Tarnetar Fair is a unique festival celebrated in the town of Tarnetar in Gujarat. It is a cultural extravaganza that attracts visitors from far and wide. The fair is renowned for its vibrant traditional costumes, folk music, dance performances, and a unique matchmaking event called Swayamvar. The fair provides an excellent opportunity to witness the rich cultural heritage of Gujarat up close.
+                    <br>
+                   <b> Kutch Festival:</b> The Rann Utsav, a three-month-long festival held in the Rann of Kutch, is a celebration of the region's culture and craftsmanship. It offers visitors a chance to experience the local traditions, folk music, dance forms, and authentic cuisine. The festival showcases the artistic skills of the Kutchi people, including their intricate embroidery, mirror work, and handicrafts.</p>
+            </div>
+
+            
+        </div>
+        <div class="blog1">
+            <div class="prof">
+               <div class="imm"><img src="./human 4.jpg" alt="" class="hnm"></div>
+               <div class="prn">
+                <p>Emma stone</p>
+               </div>
+
+               
+            </div>
+            <hr>
+          
+            <div class="wre">
+                <p>  <b>Unveiling the Hidden Gems of Gujarat: Offbeat Destinations</b>
+                <br>
+                <br>
+
+                    While Gujarat has popular tourist destinations, it also boasts several hidden gems that are off the beaten path. These lesser-known places offer unique experiences and a chance to explore Gujarat's untouched beauty. Let's discover some offbeat destinations in Gujarat. <br>
+                    
+                   <b> Champaner-Pavagadh Archaeological Park:</b> This UNESCO World Heritage Site is a hidden gem for history buffs and architecture enthusiasts. Located near Vadodara, it houses a rich collection of archaeological remains from the 8th to the 16th centuries. Explore the ancient temples, mosques, stepwells, and the formidable Pavagadh Fort perched atop a hill.
+                    <br>
+                    <b> Patan:</b> Known for its exquisite Patola silk sarees, Patan is a town with a glorious past. Visit the Rani ki Vav, a stepwell recognized as a UNESCO World Heritage Site for its intricate carvings. Explore the Patan Patola Heritage Museum, showcasing the craftsmanship behind the famous Patola sarees. Don't miss the opportunity to witness the ancient art of Patola weaving.
+                    <br>
+                   <b> Mandvi:</b> Situated on the coastline of Gujarat, Mandvi is a serene beach town that offers a tranquil escape. Enjoy the unspoiled beaches, visit the famous Vijay Vilas Palace, and indulge in watersports like jet skiing and parasailing. Witness the traditional shipbuilding at the Mandvi Shipyard, where skilled artisans construct wooden ships using age-old techniques.
+                    <br>
+                    <b>Dholavira:</b> Step back in time at Dholavira, an ancient Harappan archaeological site dating back to the Indus Valley Civilization. Explore the well-preserved ruins, including the intricate water management systems, reservoirs, and the grand citadel. The site provides valuable insights into the life and culture of one of the world's earliest urban civilizations.</p>
+            </div>
+
+            
+        </div>
+       </div>     
+        </div>
+    </div>
+    
+    <div class="contact" id="contact">
+        <div class="ho"><h1 class="t">Contact Us</h1></div>
+        <div class="last">
+           
+             <div class="num">
+                
+                <ol>
+                    <li>Travel agent contact number:+91 7745219012</li>
+                    <li> E-mail:gujaratTour@gmail.com</li>
+                    <li>Helpline  number:+91 6523987089</li>
+                    <li> web manager contact number: +91 1234567890</li>
+                </ol>
+
+             </div>
+           <div class="twitt">
+            <ol>
+                <li> <p>Twitter:<a href="#"class="linki">http:\\gujaratTour@\45.com</a></p></li>
+                <li>Copyrights belongs to xyz@wikipedia 2018</li>
+            </0l>
+           
+           </div>
+           <div class="insta">
+            <p>instagram:<a href="#"class="linki">http:\insta\\gujaratTour@\45.com</a></p>
+           </div>
+           <div class="youtu" >
+            <p>Youtube:<a href="#"class="linki">http:\Youtube\\gujaratTour\45.com</a></p>
+           </div>
+
+          
+        </div>
+        
+        
+    </div>
+   </div>
+</body>
+</html>
